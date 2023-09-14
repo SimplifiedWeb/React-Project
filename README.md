@@ -9,8 +9,11 @@ Here some of the project that is mainly focused on Logics.
 > https://lively-starship-9256f8.netlify.app
 3. SIMPLE WEBSITE
 > https://dainty-madeleine-ab16ee.netlify.app
+> 
 > https://radiant-selkie-503750.netlify.app
+> 
 > https://dashing-florentine-0dc148.netlify.app
+> 
 4. EXPENSE TRACKER ( I DEVELOP THIS IN MY OWN SIMPLE LOGIC, LESS TIME AND SPACE COMPLEXITY)
 > https://chipper-blini-b9ad22.netlify.app
 5. MANAGEMENT BOARD (IT'S NOT RESPONSIVE THAT BCZ THEY ARE OFTEN FOR DESKTOP, SHOWCASING PLANNING MANAGEMENT TASKS)
